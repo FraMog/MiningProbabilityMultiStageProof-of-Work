@@ -5,7 +5,7 @@ It implements the expression 3 obtained in the paper "On multi-stage Proof-of-Wo
 
 # How to use it
 1. Download  "MiningProbabilityMultiStageProofOfWork.wl".
-2. Put the file in one of the directory listed by the $Path variable in Mathematica.
+2. Put the file in one of the directory listed by the ```ruby$Path``` variable in Mathematica.
 3. Import the package.
 
 
