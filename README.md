@@ -8,6 +8,7 @@ It implements the expression 3 obtained in the paper "On multi-stage Proof-of-Wo
 2. Put the file in one of the directory listed by the ```$Path``` variable in Mathematica.
 3. Import the package.
 
+![HowToUse](https://user-images.githubusercontent.com/22324954/79491365-a68f3a00-801e-11ea-8a1a-f89c52a67866.PNG)
 
 
 # Other
