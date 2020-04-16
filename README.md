@@ -4,3 +4,6 @@ This package provides the functions to compute the mining probability of a miner
 It implements the expression 3 obtained in the paper "On multi-stage Proof-of-Work blockchain protocols: issues and challenges" (D'Arco, Ebadi Ansarodi, Mogavero).
 
 # How to use it
+1. Download  "MiningProbabilityMultiStageProofOfWork.wl".
+2. Put the file in one of the directory listed by the $Path variable in Mathematica.
+3. Import the package.
