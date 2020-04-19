@@ -405,7 +405,7 @@ Module[{v,amountToAssign, array,qZ, t, arraySize, minerZCouples, psiValueRecursi
   (* Case 1) v = arraySize *)
   If[v == arraySize, 
     array[[v]] = amountToAssign;
-    result = PsiProduct[array, v, t , minerZCouples,arraySize,aZ];
+    result = PsiProduct[array, qZ, t , minerZCouples,arraySize,aZ];
     Return[result, Module];
   ];
 
