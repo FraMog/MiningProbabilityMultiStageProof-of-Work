@@ -10,6 +10,9 @@ It implements the expression 3 obtained in the paper "On multi-stage Proof-of-Wo
 
 ![HowToUse](https://user-images.githubusercontent.com/22324954/79491805-464cc800-801f-11ea-9d57-538358bb8991.PNG)
 
+## Permissions
+This code is distributed under the MIT license. Feel free to download, use and distribute the code, or to fork and edit this repository.
+
 ## Other
 The package has been implemented in Wolfram Mathematica 11.3.
 
